@@ -1,7 +1,13 @@
 # 8-Pyzzle
 Algoritmo soluciona 8-Puzzle recebido escrito em Python.
 ## Get Start
-Clone ou baixe o arquivo .py
+Clone ou baixe o projeto em .zip
+
+- Clone:
+```
+git clone https://github.com/itsgnegrao/8-Pyzzle.git
+```
+
 ### Passos para Execução:
 - Execute o seguinte comando no terminal:
   ```
