@@ -11,7 +11,7 @@
 # ou
 # - A* com Pecas Fora do lugar
 #
-# puzzle.py
+# 8-Pyzzle.py
 # -----------------------------------------------------------------------------
 from heapq import *
 from random import *
